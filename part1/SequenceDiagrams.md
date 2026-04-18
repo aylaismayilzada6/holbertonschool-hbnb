@@ -16,3 +16,6 @@ Each diagram shows the communication flow between:
 
 ![User Registration Diagram](images/firstseq.png)
 
+## 2.2 Place Creation
+
+![Place CreationDiagram](images/second.png)
