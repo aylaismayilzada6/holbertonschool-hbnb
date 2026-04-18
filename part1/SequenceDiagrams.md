@@ -19,3 +19,6 @@ Each diagram shows the communication flow between:
 ## 2.2 Place Creation
 
 ![Place CreationDiagram](images/second.png)
+
+## 2.3 Review Submission
+![Place CreationDiagram](images/third.png)
