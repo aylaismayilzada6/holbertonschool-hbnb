@@ -14,5 +14,5 @@ Each diagram shows the communication flow between:
 
 ## 2.1 User Registration
 
-
+![User Registration Diagram](images/firstseq.png)
 
