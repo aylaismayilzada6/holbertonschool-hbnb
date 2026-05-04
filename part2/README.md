@@ -2,7 +2,7 @@
 
 This phase marks the transition from design to functional development. The project follows a **Layered Architecture** to ensure a strict separation of concerns between the user interface (API), the domain rules (Business Logic), and the data management (Persistence).
 
-## 📂 Project Structure
+##  Project Structure
 
 The codebase is organized into a modular package structure to facilitate scalability and maintainability:
 
@@ -31,7 +31,7 @@ hbnb/
 └── README.md                # Project documentation
 ```
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 The application utilizes the **Facade Design Pattern**. The `HBnBFacade` class acts as a single point of entry for the API layer to interact with the models and repository.
 
@@ -41,7 +41,7 @@ The application utilizes the **Facade Design Pattern**. The `HBnBFacade` class a
 * **Business Logic Layer**: Defines the core entities (User, Place, etc.) and ensures they follow business rules.
 * **Persistence Layer**: Currently implements an `InMemoryRepository` for rapid development. This layer will be swapped for an SQL database in Part 3 without altering the Business Logic.
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 1.  **Clone the repository:**
     ```bash
